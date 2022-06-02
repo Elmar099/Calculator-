@@ -1,1 +1,1 @@
-Tried to replicate the apple calculator using JavaScript, HTML and CSS.
+Replication of the apple calculator using JavaScript, HTML and CSS.
