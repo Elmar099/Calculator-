@@ -5,7 +5,7 @@ class Calculator {
         this.clear()
     }
     clear() {
-        this.currentOperand = ''
+        this.currentOperand = '0'
         this.previousOperand = ''
         this.operation = undefined
     }
@@ -38,7 +38,7 @@ class Calculator {
             case '-':
                 computation = prev - curr
                 break
-            case '*':
+            case 'x':
                 computation = prev * curr
                 break
             case '÷':
